@@ -16,6 +16,7 @@ wallabag_core:
         it: 'Italiano'
         pt: 'Português'
         ru: 'Русский'
+        hu: 'Magyar'
     items_on_page: 12
     theme: material
     language: '%locale%'
